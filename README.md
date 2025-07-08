@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm n3xtb1te 👋
 
-<!--
-**n3xtb1te/n3xtb1te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer | TypeScript Enthusiast | Playwright Power User
 
-Here are some ideas to get you started:
+![Codewars badge](https://www.codewars.com/users/xGanimeDx/badges/small)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🛠️ **QA Automation Engineer** specializing in robust, scalable test automation solutions.
+- 💻 Skilled with **TypeScript**, **Playwright**, and modern QA tooling.
+- ⚡ Motto: _"let's automate it"_
+
+## 🧰 Tech Stack
+
+- **Languages:** TypeScript, JavaScript
+- **Testing Frameworks:** Playwright, (and more!)
+- **Other:** Test automation strategy, CI/CD best practices
+
+## 🏆 Codewars
+
+I love sharpening my coding skills and tackling challenges on Codewars!  
+![Codewars badge](https://www.codewars.com/users/xGanimeDx/badges/small)
+
+## 📫 Let's Connect
+
+- [Codewars Profile](https://www.codewars.com/users/xGanimeDx)
+
+---
+
+_let's automate it_
