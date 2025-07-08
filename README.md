@@ -2,7 +2,7 @@
 
 QA Automation Engineer | TypeScript Enthusiast | Playwright Power User
 
-![Codewars badge](https://www.codewars.com/users/xGanimeDx/badges/small)
+![Codewars badge](https://www.codewars.com/users/n3xtb1te/badges/large)
 
 ---
 
@@ -21,11 +21,11 @@ QA Automation Engineer | TypeScript Enthusiast | Playwright Power User
 ## 🏆 Codewars
 
 I love sharpening my coding skills and tackling challenges on Codewars!  
-![Codewars badge](https://www.codewars.com/users/xGanimeDx/badges/small)
+![Codewars badge](https://www.codewars.com/users/n3xtb1te/badges/small)
 
 ## 📫 Let's Connect
 
-- [Codewars Profile](https://www.codewars.com/users/xGanimeDx)
+- [Codewars Profile](https://www.codewars.com/users/n3xtb1te)
 
 ---
 
